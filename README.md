@@ -1,2 +1,2 @@
 # NLP_UVA_project
-NLP project uva about detecting depression and anxiety
+The rise of social media has generated vast amounts of publicly shared content, providing insights into users' emotional and psychological states. This research introduces a novel approach for detecting anxiety, depression, and burnout using multimodal data, combining image and text analysis. The system employs BLIP for image captioning, BERT for text embeddings, and ViT for image embeddings, integrated through a multimodal large language model (LLM). Using a Reddit-derived dataset of labeled posts, the model learns from real-world scenarios. This approach aims to create a tool for identifying mental health challenges on digital platforms, aiding in early detection.
